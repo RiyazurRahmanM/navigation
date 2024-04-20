@@ -1,0 +1,32 @@
+.nav-bar{
+    display: flex;
+    flex-direction: row;
+    justify-content:flex-end;
+}
+
+li{
+    padding-right: 30px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+
+body{
+    padding-top: 2%;
+    background-color: #211C6A;
+}
+
+li :hover{
+    background-color: white;
+    padding: 5%;
+    border-radius: 30%;
+    color: #211C6A;
+    transition: all 0.2s ease;
+}

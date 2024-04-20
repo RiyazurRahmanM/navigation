@@ -1,0 +1,12 @@
+If your website's navigation bar currently
+looks bland and you're seeking to elevate its
+appearance to a more visually appealing and
+professional level. Follow these five simple
+steps
+
+Step 1: give an class name to the unordered
+list element and select it in linked css file
+then set the display property to fle to enable
+flexible layout so now you can set the flex
+direction to row to arrange the items horizontally
+and justify 
